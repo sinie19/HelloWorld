@@ -1,2 +1,2 @@
 # HelloWorld
-Practice Repo
+- Practice Repo for Learning Git
